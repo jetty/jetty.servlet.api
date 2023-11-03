@@ -3,7 +3,6 @@
     <groupId>org.eclipse.jetty.toolchain</groupId>
     <artifactId>jetty-toolchain</artifactId>
     <version>1.7</version>
-    <relativePath>../jetty-toolchain</relativePath>
   </parent>
 
   <modelVersion>4.0.0</modelVersion>
@@ -284,9 +283,9 @@
   </build>
 
   <scm>
-    <connection>scm:git:https://github.com/eclipse/jetty.toolchain.git</connection>
-    <developerConnection>scm:git:git@github.com:eclipse/jetty.toolchain.git</developerConnection>
-    <url>https://github.com/eclipse/jetty.toolchain/tree/master/jetty-servlet-api</url>
+    <connection>scm:git:https://github.com/eclipse/jetty.servlet.api.git</connection>
+    <developerConnection>scm:git:git@github.com:eclipse/jetty.servlet.api.git</developerConnection>
+    <url>https://github.com/eclipse/jetty.servlet.api</url>
     <tag>HEAD</tag>
   </scm>
 
