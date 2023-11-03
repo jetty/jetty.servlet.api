@@ -296,9 +296,9 @@
   </build>
 
   <scm>
-    <connection>scm:git:https://github.com/eclipse/jetty.servlet.api.git</connection>
-    <developerConnection>scm:git:git@github.com:eclipse/jetty.servlet.api.git</developerConnection>
-    <url>https://github.com/eclipse/jetty.servlet.api</url>
+    <connection>scm:git:https://github.com/jetty/jetty.servlet.api.git</connection>
+    <developerConnection>scm:git:git@github.com:jetty/jetty.servlet.api.git</developerConnection>
+    <url>https://github.com/jetty/jetty.servlet.api</url>
     <tag>HEAD</tag>
   </scm>
 
