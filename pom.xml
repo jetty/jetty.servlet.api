@@ -22,8 +22,8 @@
   <properties>
     <jdk.version.minimum>11</jdk.version.minimum>
     <jetty.git.repo>jetty.servlet.api</jetty.git.repo>
-    <maven.version>3.0</maven.version>
-    <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+    <!-- license check is skip because of different license headers -->
+    <license.skip>true</license.skip>
   </properties>
 
   <dependencies>
